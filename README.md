@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/Focus-Data%20Analytics-2C5364?style=flat-square" alt="Focus"/>
   <img src="https://img.shields.io/badge/Location-Baku%2C%20Azerbaijan-203A43?style=flat-square" alt="Location"/>
   <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Junior%20Roles-2C9AB7?style=flat-square" alt="Open to opportunities"/>
-  <img src="https://komarev.com/ghpvc/?username=eli-isa&style=flat-square&color=2C5364&label=Profile+views" alt="Profile views"/>
 </p>
 
 </div>
