@@ -21,7 +21,7 @@ I'm a **Data Analyst** based in Baku, Azerbaijan, specializing in **business int
 I design end-to-end analytics solutions — from cleaning and modeling raw data to building interactive Power BI dashboards that help decision-makers see what is happening, why, and what to do next.
 
 - 📊 **What I deliver:** interactive dashboards, KPI frameworks, DAX measure libraries and data models
-- 🏢 **Domains:** sales & profitability, logistics costs, HR / workforce analytics, ride-hailing operations
+- 🏢 **Domains:** sales & profitability, logistics costs, HR / workforce analytics, ride-hailing operations, banking / customer churn
 - 🤖 **AI-enabled analytics:** applying generative AI to speed up business workflows and reporting
 - 💬 **Ask me about:** Power BI, DAX, SQL, advanced Excel, dashboard design
 
@@ -68,6 +68,7 @@ I design end-to-end analytics solutions — from cleaning and modeling raw data 
 | 🌍 [**Global Superstore Profit Dashboard**](https://github.com/Ali-Isa-Ashrafli/global-superstore-profit-dashboard) | Which markets, regions, cities and customers generate profit? | Power BI · DAX |
 | 📈 [**Superstore Sales KPI Analysis with DAX**](https://github.com/Ali-Isa-Ashrafli/superstore-sales-kpi-dax) | How did sales grow YoY, and which segments rank highest? | Power BI · DAX |
 | 👥 [**HR Workforce Analytics Dashboard**](https://github.com/Ali-Isa-Ashrafli/hr-workforce-analytics-dashboard) | What does the workforce look like by department, gender, position and commute? | Power BI · DAX |
+| 🏦 [**Bank Customer Churn Analysis**](https://github.com/Ali-Isa-Ashrafli/bank-customer-churn-analysis) | Which bank customers leave — by country, gender, age and credit score — and why? | Power BI · DAX |
 
 ---
 
@@ -84,7 +85,7 @@ I design end-to-end analytics solutions — from cleaning and modeling raw data 
 </tr>
 <tr>
 <td width="50%" align="center"><a href="https://github.com/Ali-Isa-Ashrafli/superstore-sales-kpi-dax"><img src="https://raw.githubusercontent.com/Ali-Isa-Ashrafli/superstore-sales-kpi-dax/main/images/dashboard-animated.gif" alt="📈 Sales KPI Analysis with DAX"/></a><br/><b>📈 Sales KPI Analysis with DAX</b></td>
-<td width="50%" align="center"><i>More projects coming soon…</i></td>
+<td width="50%" align="center"><a href="https://github.com/Ali-Isa-Ashrafli/bank-customer-churn-analysis"><img src="https://raw.githubusercontent.com/Ali-Isa-Ashrafli/bank-customer-churn-analysis/main/images/dashboard-animated.gif" alt="🏦 Bank Customer Churn Analysis"/></a><br/><b>🏦 Bank Customer Churn Analysis</b></td>
 </tr>
 </table>
 
