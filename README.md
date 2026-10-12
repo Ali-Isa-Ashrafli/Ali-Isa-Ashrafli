@@ -75,15 +75,15 @@ I design end-to-end analytics solutions — from cleaning and modeling raw data 
 
 <table>
 <tr>
-<td width="50%" align="center"><a href="https://github.com/Ali-Isa-Ashrafli/bolt-supply-demand-analysis"><img src="https://raw.githubusercontent.com/Ali-Isa-Ashrafli/bolt-supply-demand-analysis/main/images/dashboard.png" alt="🚕 Bolt Supply & Demand"/></a><br/><b>🚕 Bolt Supply & Demand</b></td>
-<td width="50%" align="center"><a href="https://github.com/Ali-Isa-Ashrafli/global-superstore-profit-dashboard"><img src="https://raw.githubusercontent.com/Ali-Isa-Ashrafli/global-superstore-profit-dashboard/main/images/dashboard.png" alt="🌍 Global Superstore Profit"/></a><br/><b>🌍 Global Superstore Profit</b></td>
+<td width="50%" align="center"><a href="https://github.com/Ali-Isa-Ashrafli/bolt-supply-demand-analysis"><img src="https://raw.githubusercontent.com/Ali-Isa-Ashrafli/bolt-supply-demand-analysis/main/images/dashboard-animated.gif" alt="🚕 Bolt Supply & Demand"/></a><br/><b>🚕 Bolt Supply & Demand</b></td>
+<td width="50%" align="center"><a href="https://github.com/Ali-Isa-Ashrafli/global-superstore-profit-dashboard"><img src="https://raw.githubusercontent.com/Ali-Isa-Ashrafli/global-superstore-profit-dashboard/main/images/dashboard-animated.gif" alt="🌍 Global Superstore Profit"/></a><br/><b>🌍 Global Superstore Profit</b></td>
 </tr>
 <tr>
-<td width="50%" align="center"><a href="https://github.com/Ali-Isa-Ashrafli/hr-workforce-analytics-dashboard"><img src="https://raw.githubusercontent.com/Ali-Isa-Ashrafli/hr-workforce-analytics-dashboard/main/images/dashboard.png" alt="👥 HR Workforce Analytics"/></a><br/><b>👥 HR Workforce Analytics</b></td>
-<td width="50%" align="center"><a href="https://github.com/Ali-Isa-Ashrafli/azerbaijan-sales-logistics-dashboard"><img src="https://raw.githubusercontent.com/Ali-Isa-Ashrafli/azerbaijan-sales-logistics-dashboard/main/images/dashboard.png" alt="🛒 Azerbaijan Sales & Logistics"/></a><br/><b>🛒 Azerbaijan Sales & Logistics</b></td>
+<td width="50%" align="center"><a href="https://github.com/Ali-Isa-Ashrafli/hr-workforce-analytics-dashboard"><img src="https://raw.githubusercontent.com/Ali-Isa-Ashrafli/hr-workforce-analytics-dashboard/main/images/dashboard-animated.gif" alt="👥 HR Workforce Analytics"/></a><br/><b>👥 HR Workforce Analytics</b></td>
+<td width="50%" align="center"><a href="https://github.com/Ali-Isa-Ashrafli/azerbaijan-sales-logistics-dashboard"><img src="https://raw.githubusercontent.com/Ali-Isa-Ashrafli/azerbaijan-sales-logistics-dashboard/main/images/dashboard-animated.gif" alt="🛒 Azerbaijan Sales & Logistics"/></a><br/><b>🛒 Azerbaijan Sales & Logistics</b></td>
 </tr>
 <tr>
-<td width="50%" align="center"><a href="https://github.com/Ali-Isa-Ashrafli/superstore-sales-kpi-dax"><img src="https://raw.githubusercontent.com/Ali-Isa-Ashrafli/superstore-sales-kpi-dax/main/images/dashboard.png" alt="📈 Sales KPI Analysis with DAX"/></a><br/><b>📈 Sales KPI Analysis with DAX</b></td>
+<td width="50%" align="center"><a href="https://github.com/Ali-Isa-Ashrafli/superstore-sales-kpi-dax"><img src="https://raw.githubusercontent.com/Ali-Isa-Ashrafli/superstore-sales-kpi-dax/main/images/dashboard-animated.gif" alt="📈 Sales KPI Analysis with DAX"/></a><br/><b>📈 Sales KPI Analysis with DAX</b></td>
 <td width="50%" align="center"><i>More projects coming soon…</i></td>
 </tr>
 </table>
