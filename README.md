@@ -63,11 +63,11 @@ I design end-to-end analytics solutions — from cleaning and modeling raw data 
 
 | Project | Business question | Tools |
 |---|---|---|
-| 🚕 [**Bolt Supply & Demand Analysis**](https://github.com/eli-isa/bolt-supply-demand-analysis) | When is rider demand left unserved, and when should drivers go online? | Power BI · DAX · Deneb |
-| 🛒 [**Azerbaijan Sales & Logistics Dashboard**](https://github.com/eli-isa/azerbaijan-sales-logistics-dashboard) | Which products, firms and cities drive sales — and what does delivery cost? | Power BI · DAX |
-| 🌍 [**Global Superstore Profit Dashboard**](https://github.com/eli-isa/global-superstore-profit-dashboard) | Which markets, regions, cities and customers generate profit? | Power BI · DAX |
-| 📈 [**Superstore Sales KPI Analysis with DAX**](https://github.com/eli-isa/superstore-sales-kpi-dax) | How did sales grow YoY, and which segments rank highest? | Power BI · DAX |
-| 👥 [**HR Workforce Analytics Dashboard**](https://github.com/eli-isa/hr-workforce-analytics-dashboard) | What does the workforce look like by department, gender, position and commute? | Power BI · DAX |
+| 🚕 [**Bolt Supply & Demand Analysis**](https://github.com/Ali-Isa-Ashrafli/bolt-supply-demand-analysis) | When is rider demand left unserved, and when should drivers go online? | Power BI · DAX · Deneb |
+| 🛒 [**Azerbaijan Sales & Logistics Dashboard**](https://github.com/Ali-Isa-Ashrafli/azerbaijan-sales-logistics-dashboard) | Which products, firms and cities drive sales — and what does delivery cost? | Power BI · DAX |
+| 🌍 [**Global Superstore Profit Dashboard**](https://github.com/Ali-Isa-Ashrafli/global-superstore-profit-dashboard) | Which markets, regions, cities and customers generate profit? | Power BI · DAX |
+| 📈 [**Superstore Sales KPI Analysis with DAX**](https://github.com/Ali-Isa-Ashrafli/superstore-sales-kpi-dax) | How did sales grow YoY, and which segments rank highest? | Power BI · DAX |
+| 👥 [**HR Workforce Analytics Dashboard**](https://github.com/Ali-Isa-Ashrafli/hr-workforce-analytics-dashboard) | What does the workforce look like by department, gender, position and commute? | Power BI · DAX |
 
 ---
 
@@ -87,7 +87,7 @@ flowchart LR
 ## 🤝 Let's connect
 
 <p align="left">
-  <a href="https://github.com/eli-isa"><img src="https://img.shields.io/badge/GitHub-eli--isa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/Ali-Isa-Ashrafli"><img src="https://img.shields.io/badge/GitHub-Ali--Isa--Ashrafli-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 Open to **Data Analyst / BI Analyst roles, freelance dashboard projects and collaboration**.
