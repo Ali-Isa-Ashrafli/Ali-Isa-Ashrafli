@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Ali%20Isa%20Ashrafli&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Aspiring%20Data%20Analyst%20%7C%20Baku%2C%20Azerbaijan&descAlignY=58&descSize=18" width="100%" alt="Header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Ali%20Isa%20Ashrafli&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%7C%20Power%20BI%20%C2%B7%20SQL%20%C2%B7%20Excel&descAlignY=58&descSize=18" width="100%" alt="Header banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=2C9AB7&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions+%F0%9F%93%8A;SQL+%7C+Power+BI+%7C+Python+%7C+Excel;Asking+better+questions+of+data" alt="Typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=2C9AB7&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+business+decisions+%F0%9F%93%8A;Power+BI+%7C+DAX+%7C+SQL+%7C+Excel+Expert;Microsoft+Certified%3A+AI+Business+Professional" alt="Typing intro"/>
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-2C5364?style=flat-square" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Role-Data%20Analyst-2C5364?style=flat-square" alt="Role"/>
   <img src="https://img.shields.io/badge/Location-Baku%2C%20Azerbaijan-203A43?style=flat-square" alt="Location"/>
-  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Junior%20Roles-2C9AB7?style=flat-square" alt="Open to opportunities"/>
+  <img src="https://img.shields.io/badge/Microsoft-Certified-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Certified"/>
+  <img src="https://img.shields.io/badge/Open%20to-New%20Opportunities-2C9AB7?style=flat-square" alt="Open to opportunities"/>
 </p>
 
 </div>
@@ -16,59 +17,57 @@
 
 ## 👋 About me
 
-I'm a student at **Baku Engineering University** building my path into **data analytics**.
-I enjoy taking messy, real-world data and turning it into clear answers: what happened, why it happened, and what to do next.
+I'm a **Data Analyst** based in Baku, Azerbaijan, specializing in **business intelligence and reporting**.
+I design end-to-end analytics solutions — from cleaning and modeling raw data to building interactive Power BI dashboards that help decision-makers see what is happening, why, and what to do next.
 
-- 🔍 **What I do:** clean data, explore it, find the story, and present it in dashboards decision-makers actually use
-- 🎯 **Current goal:** an internship or junior role as a Data / BI Analyst
-- 🌱 **Learning now:** advanced SQL (window functions, CTEs), DAX in Power BI, and pandas for analysis
-- 💬 **Ask me about:** Excel tricks, SQL queries, dashboard design
+- 📊 **What I deliver:** interactive dashboards, KPI frameworks, DAX measure libraries and data models
+- 🏢 **Domains:** sales & profitability, logistics costs, HR / workforce analytics, ride-hailing operations
+- 🤖 **AI-enabled analytics:** applying generative AI to speed up business workflows and reporting
+- 💬 **Ask me about:** Power BI, DAX, SQL, advanced Excel, dashboard design
 
 ---
 
-## 🧰 Analytics toolkit
+## 🏅 Certifications
+
+| | Certification | Issuer |
+|:-:|---|---|
+| 🤖 | **Microsoft Certified: AI Business Professional** (AB-730) | Microsoft |
+| 📗 | **Microsoft Office Specialist: Excel Expert (Microsoft 365 Apps)** (MO-211) | Microsoft |
+
+---
+
+## 🧰 Tech stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/DAX-2C5364?style=for-the-badge" alt="DAX"/>
+  <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Power Query"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Excel%20Expert-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Deneb%20%2F%20Vega--Lite-34B233?style=for-the-badge" alt="Deneb"/>
+  <img src="https://img.shields.io/badge/Microsoft%20365%20Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Copilot"/>
 </p>
 
-| Area | What I work with |
+| Area | Expertise |
 |---|---|
-| 🗄 **Data querying** | SQL — joins, aggregations, CTEs, window functions |
-| 🧹 **Data cleaning** | Excel Power Query, pandas |
-| 📊 **Visualization & BI** | Power BI, DAX measures, interactive dashboards |
-| 🧮 **Analysis** | Descriptive statistics, KPI tracking, trend & cohort analysis |
-| 🗣 **Storytelling** | Turning findings into short, actionable recommendations |
+| 📊 **Business Intelligence** | Power BI report design, data modeling (star schema), DAX measure libraries, custom visuals (Deneb / Vega-Lite) |
+| 🗄 **Data querying** | SQL — joins, aggregations, subqueries, CTEs, window functions |
+| 🧹 **Data preparation** | Power Query (M), data cleaning and transformation |
+| 📗 **Advanced Excel** | Dynamic arrays, advanced formulas, PivotTables, Power Query, data analysis tools |
+| 🧮 **Analytics** | KPI design, YoY / time intelligence, Top-N, ranking and contribution analysis |
+| 🗣 **Storytelling** | Turning findings into clear, actionable recommendations for management |
 
 ---
 
-## 📁 Portfolio projects
+## 📁 Featured projects
 
-> Each project follows the same structure: **business question → data → method → insights → recommendation.**
-
-| # | Project | Business question | Tools | Status |
-|:-:|---|---|---|:-:|
-| 1 | 🛒 **Sales Performance Analysis** | Which products, regions and months drive revenue — and where is it leaking? | SQL · Power BI | 🚧 In progress |
-| 2 | 👥 **HR Attrition Dashboard** | Why do employees leave, and who is most at risk? | Excel · Power BI | 📝 Planned |
-| 3 | 🧾 **Customer Segmentation (RFM)** | Who are the most valuable customers and how should we target them? | Python · pandas | 📝 Planned |
-
----
-
-## 🗺 Learning roadmap
-
-- [x] Excel fundamentals, Pivot Tables, Power Query
-- [x] SQL basics — SELECT, JOIN, GROUP BY
-- [ ] Advanced SQL — CTEs, window functions, query optimization
-- [ ] Power BI data modeling & DAX
-- [ ] Python for analysis — pandas, matplotlib, seaborn
-- [ ] Statistics for analysts — A/B testing, regression basics
-- [ ] Publish 3 end-to-end portfolio projects
+| Project | Business question | Tools |
+|---|---|---|
+| 🚕 [**Bolt Supply & Demand Analysis**](https://github.com/eli-isa/bolt-supply-demand-analysis) | When is rider demand left unserved, and when should drivers go online? | Power BI · DAX · Deneb |
+| 🛒 [**Azerbaijan Sales & Logistics Dashboard**](https://github.com/eli-isa/azerbaijan-sales-logistics-dashboard) | Which products, firms and cities drive sales — and what does delivery cost? | Power BI · DAX |
+| 🌍 [**Global Superstore Profit Dashboard**](https://github.com/eli-isa/global-superstore-profit-dashboard) | Which markets, regions, cities and customers generate profit? | Power BI · DAX |
+| 📈 [**Superstore Sales KPI Analysis with DAX**](https://github.com/eli-isa/superstore-sales-kpi-dax) | How did sales grow YoY, and which segments rank highest? | Power BI · DAX |
+| 👥 [**HR Workforce Analytics Dashboard**](https://github.com/eli-isa/hr-workforce-analytics-dashboard) | What does the workforce look like by department, gender, position and commute? | Power BI · DAX |
 
 ---
 
@@ -77,10 +76,10 @@ I enjoy taking messy, real-world data and turning it into clear answers: what ha
 ```mermaid
 flowchart LR
     A[❓ Business question] --> B[📥 Collect data]
-    B --> C[🧹 Clean & validate]
-    C --> D[🔍 Explore & analyze]
-    D --> E[📊 Visualize]
-    E --> F[💡 Recommend action]
+    B --> C[🧹 Clean & model]
+    C --> D[🧮 DAX & analysis]
+    D --> E[📊 Dashboard]
+    E --> F[💡 Recommendation]
 ```
 
 ---
@@ -91,8 +90,8 @@ flowchart LR
   <a href="https://github.com/eli-isa"><img src="https://img.shields.io/badge/GitHub-eli--isa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-I'm open to **internships, junior analyst roles and collaboration on data projects**.
-Feel free to reach out or star a project you find useful ⭐
+Open to **Data Analyst / BI Analyst roles, freelance dashboard projects and collaboration**.
+Feel free to reach out — or star a project you find useful ⭐
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%" alt="Footer banner"/>
